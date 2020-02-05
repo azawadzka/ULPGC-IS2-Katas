@@ -1,4 +1,4 @@
-####Asignatura Ingeniería del Software II
+#### Asignatura Ingeniería del Software II
 Universidad de Las Palmas, enero 2020
 ###### Kata1
 Creación de una clase elemental Person y ejercicios con el entorno de programación. 
