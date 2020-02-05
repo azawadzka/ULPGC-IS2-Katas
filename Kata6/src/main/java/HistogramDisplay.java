@@ -3,13 +3,11 @@ import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
 import org.jfree.chart.plot.PlotOrientation;
 import org.jfree.data.category.DefaultCategoryDataset;
-import org.jfree.ui.ApplicationFrame;
 
 import javax.swing.*;
 import java.awt.*;
-import java.util.Random;
 
-public class HistogramDisplay extends ApplicationFrame {
+public class HistogramDisplay extends JFrame {
 
     public HistogramDisplay(Person[] data) {
         super("Histogram");
